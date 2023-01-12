@@ -6,7 +6,7 @@ Interesado en data analytics y backend en java, actualmente me encuentro estudia
 
 ## Lenguajes en desarrollo y conocimiento:
 
-!<img src ="https://user-images.githubusercontent.com/101019474/212137074-908d9360-73e9-4f55-bc7d-b9316d791266.png" width="1000" height="300" />
+<img src ="https://user-images.githubusercontent.com/101019474/212137074-908d9360-73e9-4f55-bc7d-b9316d791266.png" width="1000" height="300" />
 
 ### JAVA
 ``` Java
