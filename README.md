@@ -1,10 +1,10 @@
 ### Donde puedes encontrarme:
 
 <a href="https://www.linkedin.com/in/andres-arias-792364229/" target="_blank">
-<img src="https://user-images.githubusercontent.com/101019474/211182183-c9afd5c2-6c64-495c-9ca9-a275ddcbc7f3.png" width=150 height=40 style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/101019474/211182183-c9afd5c2-6c64-495c-9ca9-a275ddcbc7f3.png" width="150" height="40" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/AndresCortesA" target="_blank">
-<img src="https://user-images.githubusercontent.com/101019474/211182377-07f411bf-f0c9-40e4-b738-fae2a0ef366c.png" width=150 height=40 style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/101019474/211182377-07f411bf-f0c9-40e4-b738-fae2a0ef366c.png" width="150" height="40" style="margin-bottom: 5px;" />
 </a>
 
 <h1 align="center">Hi there, I'm Andrés - Student Backend Developer <img src="./src/wave.gif" width="30px"></h1>
@@ -38,8 +38,10 @@
     </a>
   </div>
 
-  <!-- Snake animation -->
-  <img src="https://github.com/AndresCortesA/AndresCortesA/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>
+  ---
+
+  <!-- Banner animado -->
+  <img src="https://user-images.githubusercontent.com/101019474/211184189-6fb697d1-28f4-4b05-bc68-5f3bde2bc7f6.gif" alt="animated banner"/>
 
   ---
 
