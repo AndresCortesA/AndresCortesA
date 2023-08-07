@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/andres-arias-792364229/" target="_blank">
-<img src= "https://github.com/AndresCortesA/AndresCortesA/issues/1#issuecomment-1667131163" width= 150 height= 40 style="margin-bottom: 5px;" />
+<img src= "https://user-images.githubusercontent.com/101019474/211182183-c9afd5c2-6c64-495c-9ca9-a275ddcbc7f3.png" width= 150 height= 40 style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/AndresCortesA" target="_blank">
 <img src= "https://user-images.githubusercontent.com/101019474/211182377-07f411bf-f0c9-40e4-b738-fae2a0ef366c.png" width= 150 height= 40 style="margin-bottom: 5px;" />
