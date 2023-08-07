@@ -31,6 +31,19 @@
     <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python"/>
 </p>
 
+<!-- Proyectos -->
+<h3 align="center">🛠️ Proyectos</h3>
+<p align="center">
+    <strong>Proyectos en Python:</strong><br>
+    <a href="https://github.com/AndresCortesA/Analisis_Datos">Análisis de Datos con Python</a> - Uso de Python para análisis de datos, aprendizaje de deep learning e inteligencia artificial.<br>
+    <a href="https://github.com/AndresCortesA/proyecto-fadaAA-2023I-python">Codificación Huffman en Python</a> - Implementación del algoritmo de codificación Huffman en Python, un proyecto emocionante.<br>
+</p>
+<p align="center">
+    <strong>Proyectos en Java:</strong><br>
+    <a href="https://github.com/AndresCortesA/Spring-formularios">Spring Boot Formularios</a> - Proyecto en Java usando Spring Boot, incluyendo un CRUD.<br>
+    <!-- Agrega aquí más proyectos en Java si los tienes -->
+</p>
+
 <!-- Estadísticas de GitHub -->
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 <div>
