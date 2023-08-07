@@ -28,7 +28,9 @@
     <a > <img src="https://img.shields.io/badge/Java-15-orange"/> </a>
     <a > <img src="https://img.shields.io/badge/MySQL-8-blue"/> </a>
     <a > <img src="https://img.shields.io/badge/SpringBoot-framework-brightgreen"/> </a>
+    <a > <img src="https://img.shields.io/badge/Python-3.9-blue"/> </a> <!-- Nueva etiqueta de Python -->
 </p>
+
 
 ---
 
