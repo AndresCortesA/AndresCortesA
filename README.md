@@ -22,7 +22,7 @@
 ---
 
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
-<img src ="https://user-images.githubusercontent.com/101019474/212137074-908d9360-73e9-4f55-bc7d-b9316d791266.png" width="1000" height="300" />
+<img src ="https://user-images.githubusercontent.com/101019474/258691996-55752b9a-d18a-4cbe-a1df-9907398db00f.png" width="1000" height="300" />
 <p align="center">
     <a > <img src="https://img.shields.io/badge/GO-1.20-blue"/> </a>
     <a > <img src="https://img.shields.io/badge/Java-15-orange"/> </a>
