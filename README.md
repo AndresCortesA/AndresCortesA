@@ -1,40 +1,38 @@
 <!-- Encabezado -->
-<h1 align="center">Hi there, I'm Andrés! <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">¡Hola! Soy Andrés <img src="./src/wave.gif" width="30px"></h1>
 
 <!-- Enlaces a tus perfiles -->
 <p align="center">
     <a href="https://www.linkedin.com/in/andres-arias-792364229/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/101019474/211182183-c9afd5c2-6c64-495c-9ca9-a275ddcbc7f3.png" width="150" height="40" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/LinkedIn-Andrés_Arias-blue?style=for-the-badge&logo=linkedin"/>
     </a>
     <a href="https://github.com/AndresCortesA" target="_blank">
-        <img src="https://user-images.githubusercontent.com/101019474/211182377-07f411bf-f0c9-40e4-b738-fae2a0ef366c.png" width="150" height="40" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/GitHub-AndrésCortesA-black?style=for-the-badge&logo=github"/>
     </a>
 </p>
 
 <!-- Sobre mí -->
 <details>
-    <summary><strong>:zap: About Me</strong></summary>
+    <summary><strong>👨‍💻 Sobre mí</strong></summary>
     <p>
-        Hi! I'm Andrés, a passionate student Backend Developer interested in data analytics and backend development in Java.
-        Currently, I'm studying and practicing Spring, advanced Java, MySQL, and Go (Golang). I love to learn new technologies and
-        build exciting projects.
+        ¡Hola! Soy Andrés, un apasionado estudiante Backend Developer interesado en el análisis de datos y el desarrollo backend en Java.
+        Actualmente, estoy estudiando y practicando Spring, Java avanzado, MySQL y Go (Golang). Me encanta aprender nuevas tecnologías
+        y construir proyectos emocionantes.
     </p>
 </details>
 
-<br />
-
 <!-- Lenguajes y herramientas -->
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center">🚀 Lenguajes y Herramientas</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/GO-1.20-blue"/>
-    <img src="https://img.shields.io/badge/Java-15-orange"/>
-    <img src="https://img.shields.io/badge/MySQL-8-blue"/>
-    <img src="https://img.shields.io/badge/SpringBoot-framework-brightgreen"/>
-    <img src="https://img.shields.io/badge/Python-3.9-blue"/>
+    <img src="https://img.shields.io/badge/GO-1.20-blue?style=for-the-badge&logo=go"/>
+    <img src="https://img.shields.io/badge/Java-15-orange?style=for-the-badge&logo=java"/>
+    <img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql"/>
+    <img src="https://img.shields.io/badge/SpringBoot-framework-brightgreen?style=for-the-badge&logo=spring"/>
+    <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python"/>
 </p>
 
 <!-- Estadísticas de GitHub -->
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">📊 Estadísticas de GitHub</h3>
 <div>
     <a href="https://github.com/AndresCortesA">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresCortesA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -50,7 +48,7 @@
 </p>
 
 <!-- Trofeos de perfil de GitHub -->
-<h3 align="center">🏆 GitHub Profile Trophy</h3>
+<h3 align="center">🏆 Trofeos de Perfil de GitHub</h3>
 <p align="center">
     <a href="https://github.com/AndresCortesA">
         <img src="https://github-profile-trophy.vercel.app/?username=AndresCortesA&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
