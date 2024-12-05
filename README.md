@@ -17,29 +17,25 @@
 <details>
     <summary><strong>👨‍💻 Sobre mí</strong></summary>
     <p>
-        ¡Hola! Soy Andrés, un entusiasta estudiante de Desarrollo Backend con un fervor especial por el análisis de datos y el mundo de Java. Mi enfoque actual se centra en            dominar Spring, Java avanzado, MySQL y Go (Golang). Mi pasión radica en la constante exploración de tecnologías innovadoras y la creación de emocionantes proyectos.
+        ¡Hola! Soy Andrés, un entusiasta estudiante de Desarrollo Backend con un fervor especial por el análisis de datos y el mundo de Java. Mi enfoque actual se centra en dominar Spring, Java avanzado, MySQL y Go (Golang). Mi pasión radica en la constante exploración de tecnologías innovadoras y la creación de emocionantes proyectos.
     </p>
 </details>
 
 <!-- Lenguajes y herramientas como una pasarela horizontal -->
 <h3 align="center">🚀 Lenguajes y Herramientas</h3>
-<div align="center" style="display: flex; justify-content: center; padding: 20px; margin: 0 10px;">
+<div align="center">
     <!-- Tarjetas para las tecnologías -->
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
-        <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go (Golang)" width="50px"/>
-        <img src="https://img.shields.io/badge/Go%20(Golang)-1.20-blue?style=for-the-badge&logo=go" alt="Go (Golang)"/>
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50px"/>
-        <img src="https://img.shields.io/badge/Java-15-orange?style=for-the-badge&logo=java" alt="Java"/>
-        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50px"/>
-        <img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql" alt="MySQL"/>
-        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="50px"/>
-        <img src="https://img.shields.io/badge/SpringBoot-framework-brightgreen?style=for-the-badge&logo=spring" alt="Spring"/>
-        <br>
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50px"/>
-        <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" alt="Python"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go (Golang)" width="50px"/>
+    <img src="https://img.shields.io/badge/Go%20(Golang)-1.20-blue?style=for-the-badge&logo=go" alt="Go (Golang)"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50px"/>
+    <img src="https://img.shields.io/badge/Java-15-orange?style=for-the-badge&logo=java" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50px"/>
+    <img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql" alt="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="50px"/>
+    <img src="https://img.shields.io/badge/SpringBoot-framework-brightgreen?style=for-the-badge&logo=spring" alt="Spring"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50px"/>
+    <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" alt="Python"/>
 </div>
-
 
 <!-- Proyectos -->
 <h3 align="center">🛠️ Proyectos</h3>
@@ -55,8 +51,8 @@
 </p>
 
 <!-- Estadísticas de GitHub -->
-<h3 align="left">📊 Estadísticas de GitHub</h3>
-<div>
+<h3 align="center">📊 Estadísticas de GitHub</h3>
+<div align="center">
     <a href="https://github.com/AndresCortesA">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresCortesA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </a>
