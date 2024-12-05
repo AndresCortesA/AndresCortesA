@@ -17,24 +17,19 @@
 <details>
     <summary><strong>👨‍💻 Sobre mí</strong></summary>
     <p>
-        ¡Hola! Soy Andrés, un entusiasta estudiante de Desarrollo Backend con un fervor especial por el análisis de datos y el mundo de Java. Mi enfoque actual se centra en dominar Spring, Java avanzado, MySQL y Go (Golang). Mi pasión radica en la constante exploración de tecnologías innovadoras y la creación de emocionantes proyectos.
+        ¡Hola! Soy Andrés, un entusiasta de Desarrollador Backend con un fervor especial por el análisis de datos y el mundo de Java. Mi enfoque actual se centra en dominar Spring, Java avanzado, MySQL y Go (Golang). Mi pasión radica en la constante exploración de tecnologías innovadoras y la creación de emocionantes proyectos.
     </p>
 </details>
 
-<!-- Lenguajes y herramientas como una pasarela horizontal -->
+<!-- Lenguajes y herramientas -->
 <h3 align="center">🚀 Lenguajes y Herramientas</h3>
 <div align="center">
-    <!-- Tarjetas para las tecnologías -->
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go (Golang)" width="50px"/>
-    <img src="https://img.shields.io/badge/Go%20(Golang)-1.20-blue?style=for-the-badge&logo=go" alt="Go (Golang)"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50px"/>
-    <img src="https://img.shields.io/badge/Java-15-orange?style=for-the-badge&logo=java" alt="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50px"/>
-    <img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql" alt="MySQL"/>
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="50px"/>
-    <img src="https://img.shields.io/badge/SpringBoot-framework-brightgreen?style=for-the-badge&logo=spring" alt="Spring"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50px"/>
-    <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" alt="Python"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40">
+    <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" title="C++" alt="C++" width="40" height="40">
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go (Golang)" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
 </div>
 
 <!-- Proyectos -->
